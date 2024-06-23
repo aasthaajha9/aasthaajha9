@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at- [https://github.com/aasthaajha9/aasthaajha9](https://github.com/aasthaajha9/aasthaajha9)
 
-- 💬 Teach me about **front, DSA and stockmarket :)**
+- 💬 Connect over **Dev, DSA and life :)**
 
 - 📫 Reach me at - **aasthaajhawork@gmail.com**
 
