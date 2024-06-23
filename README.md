@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Full stack development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aasthaajha9/aasthaajha9](https://github.com/aasthaajha9/aasthaajha9)
+- 👨‍💻 All of my projects are available at- [https://github.com/aasthaajha9/aasthaajha9](https://github.com/aasthaajha9/aasthaajha9)
 
-- 💬 Ask me about **front end and DSA**
+- 💬 Teach me about **front, DSA and stockmarket :)**
 
-- 📫 How to reach me **aasthaajhawork@gmail.com**
+- 📫 Reach me at - **aasthaajhawork@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aasthaajha/](https://www.linkedin.com/in/aasthaajha/)
+- 📄 Know about my experiences at- [https://www.linkedin.com/in/aasthaajha/](https://www.linkedin.com/in/aasthaajha/)
 
-- ⚡ Fun fact **I laugh while I code**
+- ⚡ Share repositories if you like them :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
