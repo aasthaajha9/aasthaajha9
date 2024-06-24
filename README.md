@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a  B.Tech grad with a deep-seated passion for software development. I am committed to staying at the forefront of technology, continually updating my knowledge and skills to align with the latest industry trends.<br><br>As an advocate for diversity and inclusivity, I strive to incorporate these principles into every aspect of my professional life. I am eager to leverage my expertise to contribute to innovative projects and develop impactful solutions that make a difference.
 
-
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#1152) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aasthaajha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aasthaajha) 
 
