@@ -9,7 +9,7 @@
 
 - 📫 Reach me at - **aasthaajhawork@gmail.com**
 
-- 📄 Know about my experiences at- [https://www.linkedin.com/in/aasthaajha/](https://www.linkedin.com/in/aasthaajha/)
+- 📄 Know about me at- [https://www.linkedin.com/in/aasthaajha/](https://www.linkedin.com/in/aasthaajha/)
 
 - ⚡ Share repositories if you like them :)
 
